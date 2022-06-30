@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdio)](https://github.com/msdio/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdio)](https://github.com/msdio/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdio)](https://github.com/msdio/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdio)](https://github.com/msdio/github-readme-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdio&hide=contribs,prs)
   
