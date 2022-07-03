@@ -3,7 +3,7 @@ msdio/msdio is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-### 💻 Stats
+### 📙 Stats
 ----
 [![msdio's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdio)](https://github.com/msdio/github-readme-stats)
 <br>
