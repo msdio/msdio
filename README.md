@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 <br>
 <br>
 
