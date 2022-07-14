@@ -2,7 +2,7 @@
 msdio/msdio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 ## 📚 Languages Experienced At Least Once
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 <br>
-
+--->
 ## ✏ Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr527)](https://solved.ac/khr527)
