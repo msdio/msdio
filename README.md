@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### I'm currently using...
 <a href="https://github.com/msdio/stackticon"><img width=50% src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1678426359858?alt=media&token=5a26c38c-5ea3-4544-852d-a9a4009ebb19" alt="stackticon" /></a>
 
