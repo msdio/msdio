@@ -9,4 +9,4 @@
 <a href="https://github.com/msdio/stackticon"><img width=60% src="https://test-server-alt-bucket.s3.ap-northeast-2.amazonaws.com/1680536668655.png" alt="stackticon" /></a>
 
 ### My typing speed is...
-[![Tamago](https://prod.typingmastergo.site/badge2)](https://github.com/msdio/Tamago)
+[![Tamago](https://prod.typingmastergo.site/badge?userName=msdio)](https://github.com/msdio/Tamago)
