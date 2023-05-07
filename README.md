@@ -10,3 +10,8 @@
 
 ### And my typing speed is...
 [![Tamago](https://prod.typingmastergo.site/badge?userName=msdio)](https://typingmastergo.site/)
+
+
+### Algorithm
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr527)](https://solved.ac/khr527)
